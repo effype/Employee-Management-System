@@ -1,0 +1,36 @@
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll.config
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.pdb
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csproj.CopyComplete
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.dll
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.pdb
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csprojAssemblyReference.cache
+G:\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll.config
+G:\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll
+G:\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.pdb
+G:\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.dll
+G:\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.xml
+G:\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csprojAssemblyReference.cache
+G:\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csproj.CoreCompileInputs.cache
+G:\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csproj.CopyComplete
+G:\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.dll
+G:\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.pdb
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll.config
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.pdb
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.dll
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.xml
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csprojAssemblyReference.cache
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csproj.CoreCompileInputs.cache
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csproj.CopyComplete
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.dll
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.pdb

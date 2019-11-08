@@ -1,0 +1,63 @@
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.dll
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.pdb
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.dll.config
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojAssemblyReference.cache
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.DisplayChart.resources
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.EmployeeSysMainForm.resources
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.GeneratePayRoll.resources
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\Jola\Desktop\Employee-Management-System-master\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojAssemblyReference.cache
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.DisplayChart.resources
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.EmployeeSysMainForm.resources
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.GeneratePayRoll.resources
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.dll
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.dll
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.pdb
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.dll.config
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.xml
+G:\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+G:\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CopyComplete
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.dll
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.dll
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.pdb
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.Data.dll.config
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.xml
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojAssemblyReference.cache
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.DisplayChart.resources
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.EmployeeSysMainForm.resources
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.GeneratePayRoll.resources
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CopyComplete
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+E:\Magister materiały\sem II\Employee-Management-System\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
