@@ -1,2 +1,3 @@
 # employee-management-system
-System do zarządzania pracownikami, aplikacja desktopowa.
+Employee management system, desktop application.
+
